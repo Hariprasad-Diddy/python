@@ -1,4 +1,4 @@
-# Development
+# Prerequisite 
 Please have python3 installed to run this project on terminal: https://www.python.org/downloads/
 
 
