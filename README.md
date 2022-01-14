@@ -6,3 +6,4 @@
 4. QRCode Generator https://github.com/Hariprasad-Diddy/python/tree/master/QRCodeGenerator
 5. Number Guess Game https://github.com/Hariprasad-Diddy/python/tree/master/NumberGuessGame
 6. MorsCode https://github.com/Hariprasad-Diddy/python/tree/master/MorsCode
+7. DiceGame https://github.com/Hariprasad-Diddy/python/tree/master/DiceGame
