@@ -9,3 +9,4 @@
 7. DiceGame https://github.com/Hariprasad-Diddy/python/tree/master/DiceGame
 8. MultiplicationTable https://github.com/Hariprasad-Diddy/python/tree/master/MultiplicationTables
 9. SimpleInterest https://github.com/Hariprasad-Diddy/python/tree/master/SimpleInterestCalculator
+10 .CompoundInterest https://github.com/Hariprasad-Diddy/python/tree/master/CompoundInterestCalculator
