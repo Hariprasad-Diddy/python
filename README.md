@@ -13,4 +13,5 @@
 11. OTPGenerator https://github.com/Hariprasad-Diddy/python/tree/master/OTPGenerator
 12. Calendar https://github.com/Hariprasad-Diddy/python/tree/master/Calendar
 13. PhoneNumber https://github.com/Hariprasad-Diddy/python/tree/master/PhoneNumber
-14. TimeStamp PhoneNumber https://github.com/Hariprasad-Diddy/python/tree/master/TimeStamp
+14. TimeStamp https://github.com/Hariprasad-Diddy/python/tree/master/TimeStamp
+15. ARMStrong https://github.com/Hariprasad-Diddy/python/tree/master/ARMStrong
