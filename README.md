@@ -11,3 +11,4 @@
 9. SimpleInterest https://github.com/Hariprasad-Diddy/python/tree/master/SimpleInterestCalculator
 10. CompoundInterest https://github.com/Hariprasad-Diddy/python/tree/master/CompoundInterestCalculator
 11. OTPGenerator https://github.com/Hariprasad-Diddy/python/tree/master/OTPGenerator
+12. Calendar https://github.com/Hariprasad-Diddy/python/tree/master/Calendar
